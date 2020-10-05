@@ -1,3 +1,3 @@
 <p align="center">
-  <img alt="GIF" src="./qsd.gif" />
+  <img alt="GIF" src="./logogif.gif" />
 </p>
