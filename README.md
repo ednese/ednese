@@ -1,3 +1,3 @@
 <p align="center">
-  <img alt="GIF" src="./kso.gif" />
+  <img alt="GIF" src="./kol.gif" />
 </p>
